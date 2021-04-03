@@ -1,3 +1,3 @@
 exports.sendHello = function(req, res) {
-    res.send('Hello world!')
+    res.send('Matty zdraví svět!')
 }
